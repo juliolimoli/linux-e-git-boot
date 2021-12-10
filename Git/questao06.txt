@@ -1,0 +1,2 @@
+Poder integrar o repositorio local com o github na cloud tornou interessante, 
+ate por questoes de o github ter uma interface intuitiva. Isso clareou muita coisa.

@@ -1,0 +1,3 @@
+Aqui foi quando os pontos comecaram a se ligar. 
+Entender que podem ter versoes em diferentes branches para serem trabalhadas 
+simultaneamente torna o aprendizado mais interessante.

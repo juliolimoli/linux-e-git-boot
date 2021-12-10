@@ -1,0 +1,2 @@
+Acredito que nesta aula ainda estava um pouco abstrato. Era dificil de ver como
+o git trabalha as versoes, talvez pelo fato de nao ter visto ainda conceitos como branches.

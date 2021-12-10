@@ -1,0 +1,4 @@
+O Git no inicio é algo muito dificil de entender para quem nunca viu versionamento,
+ainda mais quando esta se acostumando com linha de comando ao mesmo tempo.
+A falta de visualizacao da interface grafica deixa o conceito mais abstrato ainda.
+Mas entender o conceito basico e saber algumas situacoes reais que pode ser utilizado ajuda a incentivar.
