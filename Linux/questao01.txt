@@ -1,0 +1,2 @@
+Aprendi que Linux não é um sistema operacional e sim um kernel, 
+foi muito bom entender essa diferença.

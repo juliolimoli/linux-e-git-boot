@@ -1,0 +1,3 @@
+Os primeiros comandos no terminal foram meio 'assustadores' no começo, pois como
+um usuario comum de windows, sempre estive acostumado com interacao no sistema
+operacional de forma mais visual e com interface grafica e cliques.
